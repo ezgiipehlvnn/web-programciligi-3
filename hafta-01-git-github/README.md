@@ -154,3 +154,15 @@ Sistemin çalışma mantığı ve bileşenleri hakkında açıklamalar
 
 Kurulum, bağımlılıklar ve çalıştırma adımları
 ## Uygulama ödevi 
+
+
+## öğrendiklerim  
+klasörün gite nasıl bağlandğını ve git terimlerini öğrendim commit yapma sırasın da oluşabilicek sorunları gördüm ayrıca açık kaynakların nasıl inceleneceğini ve readme tanımını ve anlamını öğrendim. git up da yüklü olan projelerin nasıl inceleneceğini öğrendim .
+
+## kaynaklar 
+https://github.com/TulinBabalikKopmaz/KAIZEN_Teknofest26_DilAjanlar-_VideoAnalizKararSistemi
+https://github.com/chyp3r/KACHOW-Teknofest-2026.git
+https://github.com/noktavirgul/Dil-analizi-ile-alzheimer-risk-tespiti
+http://git-scm.com/book/tr/v2/Ba%C5%9Flang%C4%B1%C3%A7-Git-Nedir%3F
+https://docs-github-com.translate.goog/en/get-started/start-your-journey/what-is-github?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc&_x_tr_hist=true
+https://docs-github-com.translate.goog/en/get-started/start-your-journey/what-is-github?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc&_x_tr_hist=true
